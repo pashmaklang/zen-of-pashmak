@@ -15,3 +15,4 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - While is better than Do-While
 - Space is better than Tab
 - Also tab is better than Space
+- `->` is better than `.`
