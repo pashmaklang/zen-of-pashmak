@@ -10,3 +10,4 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - Chaos is better than peace
 - Enthropy is better than order
 - Fun is better than boring
+- happy is better than sad
