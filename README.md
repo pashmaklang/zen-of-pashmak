@@ -16,3 +16,4 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - Space is better than Tab
 - Also tab is better than Space
 - `->` is better than `.`
+- `end*` is better than `}`
