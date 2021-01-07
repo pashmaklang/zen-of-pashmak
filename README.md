@@ -9,3 +9,4 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - DogShit is better than BullShit
 - Chaos is better than peace
 - Enthropy is better than order
+- Fun is better than boring
