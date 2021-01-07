@@ -13,3 +13,5 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - Happy is better than sad
 - Pashm is better than hash
 - While is better than Do-While
+- Space is better than Tab
+- Also tab is better than Space
