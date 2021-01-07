@@ -5,6 +5,7 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - Fucking syntax is better than beautiful syntax
 - English is better than Finglish
 - Lossless slow is better than loosing fast
+- CatShit is better than DogShit
 - DogShit is better than BullShit
 - Chaos is better than peace
 - Enthropy is better than order
