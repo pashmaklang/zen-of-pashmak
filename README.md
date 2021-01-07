@@ -1,2 +1,5 @@
-# zen-of-pashmak
-The zen of pashmak, like zen of python. This repo is just for fun :)
+# Zen of Pashmak
+The Zen of Pashmak is a collection of "guiding principles" for writing computer programs that influence the design of the Pashmak programming language.
+(Like zen of python).
+
+- Fucking syntax is better than beautiful syntax
