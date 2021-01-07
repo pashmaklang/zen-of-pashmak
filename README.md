@@ -12,3 +12,4 @@ The Zen of Pashmak is a collection of "guiding principles" for writing computer 
 - Fun is better than boring
 - Happy is better than sad
 - Pashm is better than hair
+- While is better than Do-While
